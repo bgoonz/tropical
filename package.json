@@ -25,7 +25,7 @@
     "storybook-builder-vite": "^0.0.12",
     "tropical-islands": "^0.1.2",
     "tropical-scaffold": "^0.1.1",
-    "vite": "^2.4.2",
+    "vite": "^2.9.13",
     "vite-plugin-mdx": "^3.5.6"
   },
   "engines": {
